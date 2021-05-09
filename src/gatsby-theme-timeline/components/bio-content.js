@@ -12,18 +12,18 @@ export default function Bio() {
       <Trans>
         See what's buzzing on{" "}
         <LinkUI
-          href="https://www.reddit.com/r/100yearsago/"
+          href="https://www.nytimes.com"
           target="_blank"
           rel="noopener noreferrer"
           sx={css({
             lineHeight: 2,
           })}
         >
-          /r/100yearsago
+          The New York Times
         </LinkUI>{" "}
         in your native language on{" "}
         <LinkUI as={Link} to="/">
-          100.buzzing.cc
+          nytimes.buzzing.cc
         </LinkUI>
       </Trans>
     </>

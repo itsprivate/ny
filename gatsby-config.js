@@ -31,7 +31,7 @@ if (isDev) {
       branch: `main`,
       fetchOptions: ["--depth", 1],
       // Only import the docs folder from a codebase.
-      patterns: ["data/*-placeholder/1.json", "data/reddit-100/**"],
+      patterns: ["data/*-placeholder/1.json", "data/tweet-nytimes/**"],
     },
   });
 }
@@ -78,7 +78,7 @@ plugins = plugins.concat([
     options: {
       // You can add multiple tracking ids and a pageview event will be fired for all of them.
       trackingIds: [
-        "G-GF9FZBTLR6", // Google Analytics / GA
+        "G-5Q2S274Y5T", // Google Analytics / GA
       ],
     },
   },
