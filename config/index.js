@@ -8,7 +8,7 @@ const siteMetadata = {
   keywords: ["buzzing", "纽约时报"],
   telegram: "@buzzingcc",
   telegram_chat_id: "-1001406368978",
-  iconUrl: "https://news.buzzing.cc/avatar.png",
+  iconUrl: "https://nytimes.buzzing.cc/avatar.png",
   menuLinks: [
     // {
     //   name: "每周精选",
