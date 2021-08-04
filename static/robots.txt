@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://nytimes.buzzing.cc/sitemap/sitemap-index.xml
-Host: https://nytimes.buzzing.cc
+Sitemap: https://news.buzzing.cc/sitemap/sitemap-index.xml
+Host: https://news.buzzing.cc
